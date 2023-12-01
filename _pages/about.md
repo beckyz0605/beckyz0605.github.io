@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a currently second-year master's student from the [Computational and Applied Math Department](https://voices.uchicago.edu/cammasters/about/) at [The University of Chicago](https://physicalsciences.uchicago.edu/). I have done my bachelor's degree at [Washington University in St.Louis](https://wustl.edu/), with the major in computer science, economics, and applied mathematics.
+I am **Becky (Yuqing) Zhang (张宇晴)**, currently second-year master's student from the [Computational and Applied Math Department](https://voices.uchicago.edu/cammasters/about/) at [The University of Chicago](https://physicalsciences.uchicago.edu/). I have got my bachelor's degree at [Washington University in St.Louis](https://wustl.edu/), with majors in computer science, economics, and applied mathematics.
 
-My main research interests include Stochastic Optimization Methodology with its application in the Industry. I m also interest in Numerical Analysis with Matrix decomposition and the Algorithm design.
+I'm looking for a Ph.D. position in Optimization related field. My main research interests include Stochastic Optimization Methodology with its application in the Industry. I m also interest in Numerical Analysis with Matrix decomposition and the Algorithm design.
 
 Outside my academic life, I am a big fan of music！I love singing, playing piano and [erhu](https://en.wikipedia.org/wiki/Erhu). Find me in [the Histones](https://www.youtube.com/@thehistones6041)!
 
