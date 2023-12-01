@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year master student from the Computational and Applied Math Department at The University of Chicago. I have done my bachelor's degree at Washington University in St.Louis, with the major in computer science, economics, and applied mathematics.
+I'm a currently second-year master's student from the [Computational and Applied Math Department](https://voices.uchicago.edu/cammasters/about/) at [The University of Chicago](https://physicalsciences.uchicago.edu/). I have done my bachelor's degree at [Washington University in St.Louis](https://wustl.edu/), with the major in computer science, economics, and applied mathematics.
+
+My main research interests include Stochastic Optimization Methodology with its application in the Industry. I m also interest in Numerical Analysis with Matrix decomposition and the Algorithm design.
+
+Outside my academic life, I am a big fan of music！I love singing, playing piano and [erhu](https://en.wikipedia.org/wiki/Erhu). Find me in [the Histones](https://www.youtube.com/@thehistones6041)!
 
 A data-driven personal website
 ======
